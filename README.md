@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kxuepereira&show_icons=true&locale=en" alt="kxuepereira" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kxuepereira&theme=dark" alt="kxuepereira" /></p>
+
+  ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+ 
