@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kxuepereira&theme=dark" alt="kxuepereira" /></p>
 
-  ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/KxuePereira/KxuexPereira/blob/output/github-contribution-grid-snake.svg)
  
