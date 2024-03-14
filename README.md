@@ -1,6 +1,3 @@
-
-![wallpaperflare com_wallpaperrr](https://github.com/KxuePereira/KxuePereira/assets/143541555/d7f85c79-f144-408b-91ac-7360548f235b)
-
 <h1 align="center">Hi 👋, I'm Kauê</h1>
 <h3 align="center">I'm a computer science student passionate about the profession, curious and looking for more knowledge</h3>
 
