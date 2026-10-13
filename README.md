@@ -1,4 +1,4 @@
-<h2 align="left">System.out.println("Welcome to my github!😆")</h2>
+<h2 align="left">print("Welcome to my github!")</h2>
 
 ###
 
